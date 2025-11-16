@@ -42,7 +42,7 @@ Me apasiona tratar cualquier tema con rigor académico y explorar la tecnología
 
 ---
 
-## 🌐 Conéctate conmigo
+## 🌐 Contáctame
 <p align="left">
   <a href="https://github.com/Yullinsky"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/arturo-espejo-castillo-73812837a/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
